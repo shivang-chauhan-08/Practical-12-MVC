@@ -1,0 +1,43 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Task - 1</h2>
+
+<button class="btn-primary">@Html.ActionLink("Insert", "Insert", "Task_1")</button>
+<button class="btn-primary">@Html.ActionLink("Insert More Records", "InsertMore", "Task_1")</button>
+<button class="btn-primary">@Html.ActionLink("Update First Name of 1st Record", "UpdateFirstName", "Task_1")</button>
+<button class="btn-primary">@Html.ActionLink("Update Middle Name of All Records to I", "UpdateMiddleName", "Task_1")</button>
+<button class="btn-danger">@Html.ActionLink("Delete Records with Id less than 2", "DeleteId", "Task_1")</button>
+<button class="btn-danger">@Html.ActionLink("Delete All the Records", "DeleteAll", "Task_1")</button>
+
+<br />
+<br />
+<h4>Employee List</h4>
+<br />
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+        <th>@Html.DisplayNameFor(model => model.MiddleName)</th>
+        <th>@Html.DisplayNameFor(model => model.LastName)</th>
+        <th>@Html.DisplayNameFor(model => model.DOB)</th>
+        <th>@Html.DisplayNameFor(model => model.MobileNumber)</th>
+        <th>@Html.DisplayNameFor(model => model.Address)</th>
+    </tr>
+
+    @foreach(var emp in Model)
+    {
+        <tr>
+            <td>@emp.Id</td>
+            <td>@emp.FirstName</td>
+            <td>@emp.MiddleName</td>
+            <td>@emp.LastName</td>
+            <td>@emp.DOB</td>
+            <td>@emp.MobileNumber</td>
+            <td>@emp.Address</td>
+        </tr>
+    }
+</table>

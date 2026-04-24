@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\controllers\\task_3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\controllers\\task_3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\views\\task_3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\views\\task_3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\controllers\\task_2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\controllers\\task_2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
+              "RelativeToolTip": "ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T11:58:31.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
+              "RelativeDocumentMoniker": "ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
+              "RelativeToolTip": "ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:02:47.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task_2Controller.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
+              "RelativeDocumentMoniker": "ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
+              "RelativeToolTip": "ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:32:16.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

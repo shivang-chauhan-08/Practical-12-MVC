@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.Employee2>
+<h2>Task - 2</h2>
+
+<button class="btn-primary">@Html.ActionLink("Insert Records", "Insert", "Task_2")</button>
+<button class="btn-primary">@Html.ActionLink("Find Total Salaries", "TotalSalaries", "Task_2")</button>
+<button class="btn-primary">@Html.ActionLink("Find Employee With DOB < 01-01-2000", "OlderEmployee", "Task_2")</button>
+<button class="btn-primary">@Html.ActionLink("Find Employee With Middle Name Null", "NullMiddlename", "Task_2")</button>
+
+<br />
+<br />
+<h4>Employee List</h4>
+<br />
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+        <th>@Html.DisplayNameFor(model => model.MiddleName)</th>
+        <th>@Html.DisplayNameFor(model => model.LastName)</th>
+        <th>@Html.DisplayNameFor(model => model.DOB)</th>
+        <th>@Html.DisplayNameFor(model => model.MobileNumber)</th>
+        <th>@Html.DisplayNameFor(model => model.Address)</th>
+        <th>@Html.DisplayNameFor(model => model.Salary)</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Id</td>
+            <td>@emp.FirstName</td>
+            <td>@emp.MiddleName</td>
+            <td>@emp.LastName</td>
+            <td>@emp.DOB</td>
+            <td>@emp.MobileNumber</td>
+            <td>@emp.Address</td>
+            <td>@emp.Salary</td>
+        </tr>
+    }
+</table>

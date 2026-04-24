@@ -1,0 +1,36 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.Employee2>
+@{
+    ViewBag.Title = "OlderEmployee";
+}
+
+<br />
+<br />
+<h4>Employee List Whose DOB < 01-01-2000</h4>
+<br />
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+        <th>@Html.DisplayNameFor(model => model.MiddleName)</th>
+        <th>@Html.DisplayNameFor(model => model.LastName)</th>
+        <th>@Html.DisplayNameFor(model => model.DOB)</th>
+        <th>@Html.DisplayNameFor(model => model.MobileNumber)</th>
+        <th>@Html.DisplayNameFor(model => model.Address)</th>
+        <th>@Html.DisplayNameFor(model => model.Salary)</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Id</td>
+            <td>@emp.FirstName</td>
+            <td>@emp.MiddleName</td>
+            <td>@emp.LastName</td>
+            <td>@emp.DOB</td>
+            <td>@emp.MobileNumber</td>
+            <td>@emp.Address</td>
+            <td>@emp.Salary</td>
+        </tr>
+    }
+</table>
