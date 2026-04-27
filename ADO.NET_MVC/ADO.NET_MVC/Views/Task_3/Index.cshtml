@@ -1,39 +1,21 @@
-﻿@model IEnumerable<ADO.NET_MVC.Models.Employee3>
-<h2>Task - 2</h2>
+﻿
+<h2>Task - 3</h2>
 
-<button class="btn-primary">@Html.ActionLink("Insert Records", "Insert", "Task_3")</button>
-<button class="btn-primary">@Html.ActionLink("Get Records By Designation", "RecordByDesignation", "Task_3")</button>
+@*<button class="btn-primary">@Html.ActionLink("Insert Records", "Insert", "Task_3")</button>*@
+<button class="btn-primary">@Html.ActionLink("Get Records By Designation", "CountByDesignation", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Employee Info", "EmployeeInfo", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Employee View", "EmployeeView", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Insert Designation", "InsertDesSP", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Insert Employee", "InsertEmpSP", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Designation With More than 1 Employee", "DesignationWithMoreThan1Emp", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Employees By Stored Procedure", "GetEmployeeSP", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Employees By Stored Procedure & Designation", "EmployeesByDesignation", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Generate Non Clustered Index on DesignationId(Employee)", "NonClusteredIndex", "Task_3")</button>
+<button class="btn-primary">@Html.ActionLink("Employee Having Maximum Salary", "MaxSalary", "Task_3")</button>
 
 <br />
 <br />
-<h4>Employee List</h4>
+<button class="btn btn-warning">@Html.ActionLink("Employees", "Index", "Employee")</button>
+<button class="btn btn-warning">@Html.ActionLink("Designations", "Index", "Designation")</button>
 <br />
 <br />
-<table class="table table-striped">
-    <tr>
-        <th>@Html.DisplayNameFor(model => model.Id)</th>
-        <th>@Html.DisplayNameFor(model => model.FirstName)</th>
-        <th>@Html.DisplayNameFor(model => model.MiddleName)</th>
-        <th>@Html.DisplayNameFor(model => model.LastName)</th>
-        <th>@Html.DisplayNameFor(model => model.DOB)</th>
-        <th>@Html.DisplayNameFor(model => model.MobileNumber)</th>
-        <th>@Html.DisplayNameFor(model => model.Address)</th>
-        <th>@Html.DisplayNameFor(model => model.Salary)</th>
-        <th>@Html.DisplayNameFor(model => model.DesignationId)</th>
-    </tr>
-
-    @foreach (var emp in Model)
-    {
-        <tr>
-            <td>@emp.Id</td>
-            <td>@emp.FirstName</td>
-            <td>@emp.MiddleName</td>
-            <td>@emp.LastName</td>
-            <td>@emp.DOB</td>
-            <td>@emp.MobileNumber</td>
-            <td>@emp.Address</td>
-            <td>@emp.Salary</td>
-            <td>@emp.DesignationId</td>
-        </tr>
-    }
-</table>

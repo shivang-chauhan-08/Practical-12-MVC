@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.Employee3>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h4>Employee List</h4>
+<br />
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.FirstName)</th>
+        <th>@Html.DisplayNameFor(model => model.MiddleName)</th>
+        <th>@Html.DisplayNameFor(model => model.LastName)</th>
+        <th>@Html.DisplayNameFor(model => model.DOB)</th>
+        <th>@Html.DisplayNameFor(model => model.MobileNumber)</th>
+        <th>@Html.DisplayNameFor(model => model.Address)</th>
+        <th>@Html.DisplayNameFor(model => model.Salary)</th>
+        <th>@Html.DisplayNameFor(model => model.DesignationId)</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Id</td>
+            <td>@emp.FirstName</td>
+            <td>@emp.MiddleName</td>
+            <td>@emp.LastName</td>
+            <td>@emp.DOB</td>
+            <td>@emp.MobileNumber</td>
+            <td>@emp.Address</td>
+            <td>@emp.Salary</td>
+            <td>@emp.DesignationId</td>
+        </tr>
+    }
+</table>
+
+<button class="btn btn-warning">@Html.ActionLink("Back", "Index", "Task_3")</button>

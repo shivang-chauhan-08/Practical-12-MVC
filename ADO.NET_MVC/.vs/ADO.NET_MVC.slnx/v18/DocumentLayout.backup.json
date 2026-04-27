@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\controllers\\task_3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\controllers\\task_3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ado.net_mvc\\controllers\\task_3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\controllers\\task_3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\views\\task_3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\views\\task_3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\controllers\\task_2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\controllers\\task_2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\views\\task_3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\views\\task_3\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\views\\designation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\views\\designation\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|c:\\users\\shivang.chauhan\\desktop\\dot net\\asp.net mvc\\practicals\\practical - 12\\ado.net_mvc\\ado.net_mvc\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}|ADO.NET_MVC\\ADO.NET_MVC.csproj|solutionrelative:ado.net_mvc\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +42,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "ADO.NET_MVC\\Models\\Designation.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Models\\Designation.cs",
+              "RelativeToolTip": "ADO.NET_MVC\\Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:26:55.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Views\\Designation\\Index.cshtml",
+              "RelativeDocumentMoniker": "ADO.NET_MVC\\Views\\Designation\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Views\\Designation\\Index.cshtml",
+              "RelativeToolTip": "ADO.NET_MVC\\Views\\Designation\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:25:41.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "ADO.NET_MVC\\Controllers\\DesignationController.cs",
+              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "ADO.NET_MVC\\Controllers\\DesignationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:23:47.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
               "RelativeDocumentMoniker": "ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
               "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
               "RelativeToolTip": "ADO.NET_MVC\\Views\\Task_3\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-24T11:58:31.347Z",
+              "WhenOpened": "2026-04-27T05:52:56.264Z",
               "EditorCaption": ""
             },
             {
@@ -53,22 +100,9 @@
               "RelativeDocumentMoniker": "ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
               "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
               "RelativeToolTip": "ADO.NET_MVC\\Controllers\\Task_3Controller.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAEQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T11:02:47.526Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Task_2Controller.cs",
-              "DocumentMoniker": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
-              "RelativeDocumentMoniker": "ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
-              "ToolTip": "C:\\Users\\shivang.chauhan\\Desktop\\Dot Net\\ASP.NET MVC\\Practicals\\Practical - 12\\ADO.NET_MVC\\ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
-              "RelativeToolTip": "ADO.NET_MVC\\Controllers\\Task_2Controller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-24T11:32:16.106Z",
+              "WhenOpened": "2026-04-27T05:31:38.723Z",
               "EditorCaption": ""
             }
           ]

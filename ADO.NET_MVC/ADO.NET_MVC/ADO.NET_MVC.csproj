@@ -8,7 +8,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{D49D4A87-3631-49C7-ACDF-7A6D7EEFE83A}</ProjectGuid>
+    <ProjectGuid>{75C34EC4-3F5A-DB8E-35A9-16B31A9AB8CA}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -120,6 +120,8 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\DesignationController.cs" />
+    <Compile Include="Controllers\EmployeeController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\Task_1Controller.cs" />
     <Compile Include="Controllers\Task_2Controller.cs" />
@@ -131,6 +133,9 @@
     <Compile Include="Models\Employee.cs" />
     <Compile Include="Models\Employee2.cs" />
     <Compile Include="Models\Employee3.cs" />
+    <Compile Include="Models\ViewModels\DesignationCountVM.cs" />
+    <Compile Include="Models\ViewModels\EmployeeDetailVM.cs" />
+    <Compile Include="Models\ViewModels\EmployeeInfoVM.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -186,6 +191,17 @@
     <Content Include="Views\Task_2\Index.cshtml" />
     <Content Include="Views\Task_2\OlderEmployee.cshtml" />
     <Content Include="Views\Task_3\Index.cshtml" />
+    <Content Include="Views\Task_3\CountByDesignation.cshtml" />
+    <Content Include="Views\Task_3\EmployeeInfo.cshtml" />
+    <Content Include="Views\Task_3\EmployeeView.cshtml" />
+    <Content Include="Views\Task_3\InsertDesSP.cshtml" />
+    <Content Include="Views\Task_3\InsertEmpSP.cshtml" />
+    <Content Include="Views\Task_3\DesignationWithMoreThan1Emp.cshtml" />
+    <Content Include="Views\Task_3\GetEmployeeSP.cshtml" />
+    <Content Include="Views\Task_3\EmployeesByDesignation.cshtml" />
+    <Content Include="Views\Task_3\MaxSalary.cshtml" />
+    <Content Include="Views\Employee\Index.cshtml" />
+    <Content Include="Views\Designation\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

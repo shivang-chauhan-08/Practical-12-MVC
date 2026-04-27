@@ -1,0 +1,35 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.ViewModels.EmployeeDetailVM>
+@{
+    ViewBag.Title = "EmployeeInfo";
+}
+
+<h2>Employee Info.</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>First Name</th>
+        <th>Middle Name</th>
+        <th>Last Name</th>
+        <th>Designation</th>
+        <th>DOB</th>
+        <th>Mobile</th>
+        <th>Address</th>
+        <th>Salary</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.FirstName</td>
+            <td>@item.MiddleName</td>
+            <td>@item.LastName</td>
+            <td>@item.Designation</td>
+            <td>@item.DOB</td>
+            <td>@item.MobileNumber</td>
+            <td>@item.Address</td>
+            <td>@item.Salary</td>
+        </tr>
+    }
+</table>
+
+<button class="btn btn-warning">@Html.ActionLink("Back", "Index")</button>

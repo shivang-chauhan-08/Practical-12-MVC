@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.ViewModels.DesignationCountVM>
+@{
+    ViewBag.Title = "CountByDesignation";
+}
+
+<h2>No. Of Employees By Designation</h2>
+
+<table class="table table-striped">
+    <tr>
+        <th>Designation</th>
+        <th>No. of Employees</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Designation</td>
+            <td>@item.EmployeeCount</td>
+        </tr>
+    }
+</table>
+
+<button class="btn btn-warning">@Html.ActionLink("Back", "Index")</button>

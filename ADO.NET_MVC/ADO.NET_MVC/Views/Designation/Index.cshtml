@@ -1,0 +1,25 @@
+﻿@model IEnumerable<ADO.NET_MVC.Models.Designation>
+@{
+    ViewBag.Title = "Index";
+}
+
+
+<h4>Designation List</h4>
+<br />
+<br />
+<table class="table table-striped">
+    <tr>
+        <th>@Html.DisplayNameFor(model => model.Id)</th>
+        <th>@Html.DisplayNameFor(model => model.DesignationName)</th>
+    </tr>
+
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Id</td>
+            <td>@emp.DesignationName</td>
+        </tr>
+    }
+</table>
+
+<button class="btn btn-warning">@Html.ActionLink("Back", "Index", "Task_3")</button>
